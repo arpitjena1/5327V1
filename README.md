@@ -1,13 +1,12 @@
-# EZ-Template-Example
-### This is the example project for the EZ-Template library.  
+# 5327V
+### This is the main project of 5327V.  
 
-EZ-Template is a simple plug-and-play PROS template that handles drive base functions for VEX robots.  
+Uses EZ-Template, Okapi Units, with an extension of custom code for motion profile, pure pursuit, ramsete, and custom PID controllers.
 
 [EZ-Template Version](https://github.com/EZ-Robotics/EZ-Template): 2.1.0   
 
-[Autonomous routines that used EZ-Template](https://photos.app.goo.gl/yRwuvmq7hDoM4f6EA)
 
-## Download and Installation  
+## Download and Installation of EZ-Template 
 1) Download the latest example project [here](https://github.com/EZ-Robotics/EZ-Template-Example/releases/latest).  Extract the zip, and open it in PROS.   
 2) In `src/main.cpp`, configure drive and IMU ports to what they are on your robot.  Be sure to read the comments!    
 3) Configure your wheel size and cartrige.  Remember that 4" omni wheels are actually 4.125!    
@@ -28,10 +27,9 @@ EZ-Template is a simple plug-and-play PROS template that handles drive base func
 [Check out our tutorials here!](https://ez-robotics.github.io/EZ-Template/tutorials)
 
 ## Docs
-[Read the docs here!](https://ez-robotics.github.io/EZ-Template/docs)
+[Read EZ-Template Docs](https://ez-robotics.github.io/EZ-Template/docs)
+[Read Okapi Docs](https://okapilib.github.io/OkapiLib/md_docs_tutorials_walkthrough_gettingStarted.html)
 
-## Additing Autonomous Routines
-[Check out the tutorial on adding new autonomous routines here!](https://ez-robotics.github.io/EZ-Template/docs/Tutorials/autons.html)
 
 
 ## License
